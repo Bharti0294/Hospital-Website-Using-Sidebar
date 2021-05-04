@@ -1,0 +1,41 @@
+.sidebar a {
+    display: block;
+    color: black;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 18px;
+    
+    
+  }
+  .navbar-nav a{
+      color: rgb(31, 28, 28);
+  }
+
+  .navbar-nav a:hover:not(.active) {
+    background-color: rgb(122, 231, 122);
+    color: white;
+    
+  } 
+  
+  
+  .sidebar a:hover:not(.active) {
+    background-color: rgb(89, 233, 89);
+    color: white;
+    
+  } 
+  @media screen and (max-width: 700px) {
+    .sidebar {
+      width: 100%;
+      height: auto;
+      position: relative;
+    }
+    .sidebar a {float: left;}
+    div.content {margin-left: 0;}
+  }
+  
+  @media screen and (max-width: 400px) {
+    .sidebar a {
+      text-align: center;
+      float: none;
+    }
+}

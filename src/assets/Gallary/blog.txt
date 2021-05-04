@@ -1,0 +1,111 @@
+<div class="container-fluid">
+    <img src="assets/Gallery/blog.png"><br><br>
+    <h3 style="color: blue;">Medical Blog</h3>
+    <ul>
+        <li><a href="">Skin & hair Diseases</a></li>
+        <li><a href="">Videos</a></li>
+        <li><a href="">Aeticles</a></li>
+    </ul>
+    <hr>
+    <div>
+        <h2 style="color: orangered;">Skin & hair Diseases</h2><br>
+        <h4>Acne</h4><br>
+        <p>Acne also known as acne vulgaris, is a long-term skin disease that occurs when hair follicles are clogged with dead skin cells and oil from the skin. It is characterized by blackheads or whiteheads, pimples, oily skin, and possible scarring. It
+            primarily affects areas of the skin with a relatively high number of oil glands, including the face, upper part of the chest, and back. The resulting appearance can lead to anxiety, reduced self-esteem and, in extreme cases, depression or
+            thoughts of suicide. Genetics is thought to be the primary cause of acne in 80% of cases. The role of diet and cigarette smoking is unclear, and neither cleanliness nor exposure to sunlight appear to play a part. In both sexes, hormones called
+            androgens appear to be part of the underlying mechanism, by causing increased production of sebum. Another frequent factor is excessive growth of the bacterium Propionibacterium acnes, which is normally present on the skin</p><br><br>
+
+
+        <h5>Treatment</h5><br>
+        <p>Many treatment options for acne are available, including lifestyle changes, medications, and medical procedures. Eating fewer simple carbohydrates such as sugar may help. Treatments applied directly to the affected skin, such as azelaic acid,
+            benzoyl peroxide, and salicylic acid, are commonly used. Antibiotics and retinoids are available in formulations that are applied to the skin and taken by mouth for the treatment of acne. However, resistance to antibiotics may develop as a
+            result of antibiotic therapy. Several types of birth control pills help against acne in women. Isotretinoin pills are usually reserved for severe acne due to greater potential side effects. Early and aggressive treatment of acne is advocated
+            by some in the medical community to decrease the overall long-term impact to individuals.</p><br><br>
+
+        <h4>Fungal Skin Diseases</h4><br>
+        <p>Fungal skin diseases are brought about by various sorts of fungi and are the main reasons behind an irritated skin. Fungi attack and develop in dead keratin, a protein that makes up your skin, hair and nails. The various sorts of fungal diseases
+            are caused by various groups of fungi. Some common fungal skin infections include ringworm, intertrigo, nail infections, Athlete’s foot, etc.Fungal rashes can at times be mistaken for other skin conditions, for example, psoriasis and eczema.
+            Fungal skin diseases can bring about a number of skin rashes; some of them being red, textured and itchy. The organism can influence only one region, or a few zones of your body. In the event that you get a fungal disease of your scalp, you
+            might lose some hair.</p><br><br>
+
+        <h4>Hair Loss</h4><br>
+        <p>Hair loss there is different type of hair loss, male pattern , hair loss, female pattern hair loss, focal hair loss, diffuse hair loss, permanent , temporary , infectious psychological, nutritional. Detail history, examination, investigation are
+            needful. Both topical, systemic medication, mesotherapy, PRP are treatment of option.</p><br>
+        <hr>
+
+    </div>
+    <div>
+        <h2 style="color: orangered;">Videos</h2><br>
+
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-5">
+                <iframe width="504" height="315" src="https://www.youtube.com/embed/pCsP2qdud9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="col-md-5">
+                <iframe width="504" height="315" src="https://www.youtube.com/embed/hOTVPi_2t0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="col-md-1"></div>
+
+
+        </div>
+    </div>
+    <hr>
+</div><br>
+<div class="container-fluid">
+    <h2 style="color: orangered;">Articles</h2><br>
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-2">
+            <img src="assets/Gallery/article.jpg">
+        </div>
+        <div class="col-md-2">
+            <img src="assets/Gallery/article1.jpg">
+
+        </div>
+        <div class="col-md-2">
+            <img src="assets/Gallery/article2.jpg">
+
+        </div>
+        <div class="col-md-2">
+            <img src="assets/Gallery/article8.jpg">
+        </div>
+        <div class="col-md-2"></div>
+
+
+
+    </div>
+    <div class="row">
+        <div class="col-md-2"></div>
+
+        <div class="col-md-2">
+            <img src="assets/Gallery/article3.jpg">
+
+        </div>
+        <div class="col-md-2">
+            <img src="assets/Gallery/article5.jpg">
+
+        </div>
+        <div class="col-md-2">
+            <img src="assets/Gallery/article6.jpg">
+
+        </div>
+        <div class="col-md-2">
+            <img src="assets/Gallery/article7.jpg">
+        </div>
+
+        <div class="col-md-2"></div>
+
+
+    </div>
+</div>
+*********************************************************************CSS******************************************************************************************
+img {
+    width: 100%;
+    height: 350px;
+}
+
+a {
+    text-decoration: none;
+    color: orangered;
+}

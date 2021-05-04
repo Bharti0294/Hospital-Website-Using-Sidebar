@@ -1,0 +1,127 @@
+.service-box {
+	margin-bottom: 30px;
+    margin-top: 70px;
+}
+
+.service-icon {
+	margin: 0 20px 20px 0;
+	float: left;
+}	
+
+.service-desc h5 {
+	margin-bottom: 10px;
+}
+.fadeInRight {
+    -webkit-animation-name: fadeInRight;
+    animation-name: fadeInRight;
+  }
+  
+  @-webkit-keyframes fadeInRightBig {
+    0% {
+      opacity: 0;
+      -webkit-transform: translateX(2000px);
+      transform: translateX(2000px);
+    }
+  
+    100% {
+      opacity: 1;
+      -webkit-transform: translateX(0);
+      transform: translateX(0);
+    }
+  }
+  
+  @keyframes fadeInRightBig {
+    0% {
+      opacity: 0;
+      -webkit-transform: translateX(2000px);
+      -ms-transform: translateX(2000px);
+      transform: translateX(2000px);
+    }
+  
+    100% {
+      opacity: 1;
+      -webkit-transform: translateX(0);
+      -ms-transform: translateX(0);
+      transform: translateX(0);
+    }
+  }
+  
+@media (max-width:767px) {
+    .service-box {
+		margin: 20px 0 30px;
+	}
+}
+.service-icon span {
+    color: #4ACCD1;
+}
+.fa-3x {
+    font-size: 3em;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.title-box{
+	text-align: center;
+	margin-bottom: 10px;
+}
+.title-box h3{
+	font-size: 42px;
+	font-family: 'Catamaran', sans-serif;
+	color: #222222;
+	font-weight: 500;
+	position: relative;
+	padding-bottom: 30px;
+	margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+.title-box h2::after{
+	content: "";
+	position: absolute;
+    /* background-color: white; */
+	
+	width: 120px;
+	height: 20px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+}
+
+.title-box h2 span{
+	color: #00cb86;
+	text-decoration: underline;
+}
+
+.about-img{
+	padding: 10px 0px;
+}
+
+.about-img img{
+	border-radius: 10px;
+}
+ .title-box img {
+    margin: 0%;
+    margin-bottom: 10px;
+}
+.img-responsive, .thumbnail>img, .thumbnail a>img, .carousel-inner>.item>img, .carousel-inner>.item>a>img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+img {
+  vertical-align: middle;
+}
+img {
+  border: 0;
+}
