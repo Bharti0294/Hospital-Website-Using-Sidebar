@@ -19,13 +19,13 @@
 ## Doctor
 ![Doctor-page](https://user-images.githubusercontent.com/79982684/116983415-b04a1500-ace7-11eb-96d5-13ad1d2689db.png)
 
-##Team
+## Team
 ![Team-page](https://user-images.githubusercontent.com/79982684/116983442-bc35d700-ace7-11eb-851b-9c5f2e016f60.png)
 
-##Department
+## Department
 ![Department-page](https://user-images.githubusercontent.com/79982684/116983534-db346900-ace7-11eb-9b82-cead4ec7f416.png)
 
-##Testimonials
+## Testimonials
 ![Testimonials-page](https://user-images.githubusercontent.com/79982684/116983557-e38ca400-ace7-11eb-98a6-c446ec0b7bad.png)
 
 ## Pricing
